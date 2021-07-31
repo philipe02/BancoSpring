@@ -6,8 +6,6 @@ Uma api feita utilizando Springboot, simulando um sistema bancário. Construída
 
 Utilizei também algumas ferramentas bem interessantes como o Lombok, que permite criar getters e setters do java com apenas 2 linhas.
 
----
-
 ## **Tecnologias utilizadas :**
 
 -   Springboot
@@ -15,8 +13,6 @@ Utilizei também algumas ferramentas bem interessantes como o Lombok, que permit
 -   MySQL
 -   Project Lombok
 -   Swagger
-
----
 
 ## **Instalação :**
 
